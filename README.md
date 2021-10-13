@@ -3,9 +3,9 @@
 # how to use it
 <hr>
 1 - clone the repo<br>
-2 - ```cmd
+2 - ```command
 npm i ``` <br>
-3 - ```cmd
+3 - ```command
 node index.js``` <br>
 for devs use nodemon better
 
