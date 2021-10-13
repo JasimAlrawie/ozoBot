@@ -1,7 +1,6 @@
 <h1>OZO</h1>
 
 # how to use it
-<hr>
 1 - clone the repo<br>
 2 - npm i <br>
 3 - node index.js <br>
