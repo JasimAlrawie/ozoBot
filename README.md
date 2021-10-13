@@ -3,8 +3,8 @@
 # how to use it
 <hr>
 1 - clone the repo<br>
-2 - ``` npm i ```
-3 - ``` node index.js```
+2 - ```cmd npm i ``` <br>
+3 - ```cmd node index.js``` <br>
 for devs use nodemon better
 
 note the server must be offline mode<br>
