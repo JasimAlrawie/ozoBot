@@ -1,4 +1,4 @@
-# ozoBot
+<h1>OZO</h1>
 
 # how to use it
 <hr>
