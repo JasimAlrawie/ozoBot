@@ -7,6 +7,9 @@
 1 - clone the repo<br>
 2 - npm i <br>
 3 - node index.js <br>
+<br>
+You can access the control panel from broswr
+Through http://localhost:8888
 for devs use nodemon better
 
 note the server must be offline mode<br>
