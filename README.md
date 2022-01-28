@@ -3,7 +3,7 @@
 <br>
 
 <br>
-# how to use it
+# how to use it <br>
 1 - clone the repo<br>
 2 - npm i <br>
 3 - node index.js <br>
