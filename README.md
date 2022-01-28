@@ -8,7 +8,7 @@
 2 - npm i <br>
 3 - node index.js <br>
 <br>
-You can access the control panel from broswr
+You can access the control panel from any browser 
 Through http://localhost:8888
 for devs use nodemon better
 
