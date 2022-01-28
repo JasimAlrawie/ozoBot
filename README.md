@@ -1,6 +1,8 @@
 <h1>OZO</h1>
 <p>ozo is a minecraft bot which can be controlled from browser</pi
 <br>
+
+<br>
 # how to use it
 1 - clone the repo<br>
 2 - npm i <br>
