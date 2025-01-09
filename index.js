@@ -8,7 +8,8 @@ web.use(express.static("./public"))
 
 let bot = mineflayer.createBot({
     username:"ozo",
-    host:"localhost"
+    host:"localhost",
+    auth:"offline"
 })
 let ws = new WebSocketServer({
     port:5555
