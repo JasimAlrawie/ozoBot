@@ -10,6 +10,7 @@ https://github.com/user-attachments/assets/f0e70a50-dec0-490b-8c82-d17b282b8f92
 
 
 ## How to Use
+currently works on 1.21.3 and maybe less
 
 1. Clone the repository to your local machine.
 2. Navigate to the cloned repository folder.
