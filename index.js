@@ -1,5 +1,5 @@
 const mineflayer = require("mineflayer")
-const mc = require("minecraft-data")
+// const mc = require("minecraft-data")
 const {WebSocketServer} = require("ws")
 const express = require("express")
 
@@ -7,7 +7,8 @@ let web = express()
 web.use(express.static("./public"))
 
 let bot = mineflayer.createBot({
-    username:"ozo"
+    username:"ozo",
+    host:"localhost"
 })
 let ws = new WebSocketServer({
     port:5555
