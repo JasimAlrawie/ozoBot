@@ -2,6 +2,13 @@
 
 **OZO** is a Minecraft bot that can be controlled directly from your browser.
 
+## Showcase
+
+
+https://github.com/user-attachments/assets/f0e70a50-dec0-490b-8c82-d17b282b8f92
+
+
+
 ## How to Use
 
 1. Clone the repository to your local machine.
